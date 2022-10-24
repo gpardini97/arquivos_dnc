@@ -6,4 +6,3 @@ def soma(a,b):
     print(f'A soma dos números é {z}')
 
 soma(a,b)
-# a vida é muito boa
